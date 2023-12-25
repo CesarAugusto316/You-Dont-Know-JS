@@ -1,0 +1,14 @@
+{
+  "name": "you-dont-know-js",
+  "version": "1.0.0",
+  "description": "This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
